@@ -27,6 +27,7 @@ I build this project to visualize the process through which different sorting al
 
 - Generate random arrays.
 - See how different algorithms work on sorting the array
+
 **Note**: Can adjust sort speed by changing “ANIMATION_SPEED” in `SortingVisuaizer.jsx`.
 
 ## Technologies Used
