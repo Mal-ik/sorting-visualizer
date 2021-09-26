@@ -11,7 +11,7 @@
 
 ## Overview
 
-I build this project to visualize the process through which different sorting algorithms actually sort an array. I hope you enjoy playing with it!
+I built this project to visualize how different algorithms sort an array. I hope you enjoy playing with it!
 
 
 ## Demo
